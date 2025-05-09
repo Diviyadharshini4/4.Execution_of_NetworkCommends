@@ -25,6 +25,7 @@ This commands includes
 <BR>
 • Other IP Commands e.g. show ip route etc.
 <BR>
+
 ## program
 client:
 ```
@@ -58,8 +59,10 @@ server:
     result, unans = traceroute(target,maxttl=32) 
     print(result,unans)
  ```
+
 ## Output
 ![image](https://github.com/user-attachments/assets/76a984f6-014a-4b53-8376-c92520024aa8)
 ![image](https://github.com/user-attachments/assets/179f83f8-095c-4d26-87c1-f03f5848fd90)
+
 ## Result
 Thus Execution of Network commands Performed 
